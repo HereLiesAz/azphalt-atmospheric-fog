@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.scenery.scenery-atmospheric-fog",
+  "id": "com.hereliesaz.azphalt.atmospheric-fog",
   "name": "Atmospheric Fog Submersion",
   "version": "1.0.0",
   "kind": "asset",
