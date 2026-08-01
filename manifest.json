@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Sinks the layer into the scene by depth: the further back it sits, the more it fades and the heavier it blurs, until distance swallows it.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
